@@ -1,0 +1,2 @@
+# zazzytrade
+zazzytrade-project
